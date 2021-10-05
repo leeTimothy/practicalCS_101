@@ -1,0 +1,1 @@
+# Write Absolutely everything you remember about python down with working code examples. If you want this can be a .ipynb to help segment out your thoughts!
