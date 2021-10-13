@@ -15,7 +15,7 @@ On your Macbook go ahead and download [Git](https://git-scm.com/).
 
 Git itself is the open source software made by the fella who made Linux - he didn't like working problems out with people so he made a software that would help with the journey. Initially he made it to distribute different kernels of Linux but since it's creation it's been used in other ways (the names GitLab and GitHub [what we're using] will probably come to mind.)
 
-Once you've got those setup - at least initially - we'll setyup your username and password and pass things back and forth between your laptop and Git through HTTPS. You are able to setup an ssh connection too but let's leave that for another day.
+Once you've got those setup - at least initially - we'll setup your username and password and pass things back and forth between your laptop and Git through HTTPS. You are able to setup an ssh connection too but let's leave that for another day.
 
 Once you've installed git - pop open the git terminal through either Git Bash or Git CMD. Try to avoid using the GUI's. Although they're easier - if you want to pursue Software Engineering further, being comfortable in a terminal environment will take you far. It'll look super similar to your regular terminal. You'll need to configure your Username and Email. These will be the Username and Email that will appear in your Push/Pull Requests in Git. To do this you'll need to use the following:
 
