@@ -65,7 +65,7 @@ Congratulations! You've just completed your first pull request! This can also be
 
 ## Exercises
 
-Right - now that that's all out of the way - I thought let's start with Python as that's the stuff front of mind for you right now. In 15 minutes - I want you to write in either [hellowworld.py](/source/2021_10/Python/helloworld.py) or [hellowworld.py](/source/2021_10/Python/helloworld.ipynb) *everything* you know about Python - no matter how small or how large. I actually want you to focus on this more than the challenge question - as I can just provide the answer to that one and we can code it up together.
+Right - now that that's all out of the way - I thought let's start with Python as that's the stuff front of mind for you right now. In 15 minutes - I want you to write in either [hellowworld.py](/source/2021_10/Python/helloworld.py) or [hellowworld.ipynb](/source/2021_10/Python/helloworld.ipynb) *everything* you know about Python - no matter how small or how large. I actually want you to focus on this more than the challenge question - as I can just provide the answer to that one and we can code it up together.
 
 If you have any questions mate - feel free to hit me up!
 
