@@ -31,7 +31,7 @@ Once done - run the following to confirm that your changes have taken on your ma
 
 `git config --global user.email`
 
-What you should find now is that Git is now spitting out your Name and Email. If anything looks wrong - go back to the start with ` git config --global user.name "John Smith"` and you should be able to get it sorted.
+What you should find now is that Git is now spitting out your Name and Email. If anything looks wrong - go back to the start with `git config --global user.name "John Smith"` and you should be able to get it sorted.
 
 ## Visual Studio Code - VS Code - The GOAT
 
