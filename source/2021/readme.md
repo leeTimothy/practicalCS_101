@@ -1,6 +1,6 @@
 # 20211005 Code Camp
 
-Hey Dom,
+To the reader,
 
 This will be a bit of a crash course in absolutely everything - using Git, VS Code and some code snippets. For full context - if was to label myself - it would be python developer so that would probably be where you would get the most bang for your buck in terms of leveraging my time - but that's not to say I won't be able to assist with HTML, CSS or any other language. Once you've learnt one - you've pretty much learnt them all - just need to know what syntax to use etc.
 
@@ -19,23 +19,23 @@ Once you've got those setup - at least initially - we'll setup your username and
 
 Once you've installed git - pop open the git terminal through either Git Bash or Git CMD. Try to avoid using the GUI's. Although they're easier - if you want to pursue Software Engineering further, being comfortable in a terminal environment will take you far. It'll look super similar to your regular terminal. You'll need to configure your Username and Email. These will be the Username and Email that will appear in your Push/Pull/Commit Requests in Git. To do this you'll need to use the following:
 
-``` git config --global user.name "John Smith" ```
+`git config --global user.name "John Smith"`
 
-``` git config --global user.email "john_smith@fake_domain.co.uk" ```
+`git config --global user.email "john_smith@fake_domain.co.uk"`
 
 Obviously - replace John Smith and the Email with your own (unless that is you want to be John Smith..) On running the above two commands - you shouldn't get any output - just a new line and returning to a new line.
 
 Once done - run the following to confirm that your changes have taken on your machine.
 
-``` git config --global user.name ```
+`git config --global user.name`
 
-``` git config --global user.email```
+` git config --global user.email`
 
-What you should find now is that Git is now spitting out your Name and Email. If anything looks wrong - go back to the start with ``` git config --global user.name "John Smith"``` and you should be able to get it sorted.
+What you should find now is that Git is now spitting out your Name and Email. If anything looks wrong - go back to the start with ` git config --global user.name "John Smith"` and you should be able to get it sorted.
 
 ## Visual Studio Code - VS Code - The GOAT
 
-I won't lie to you mate. I only started using VS Code this year. I was previously using Spyder - a Python specific IDE which was *fine* but that was it - it was just *fine*. With VS Code - there's Version Control Integration, Mutilple Language Support - and a dark theme (perfect for evenings spent coding). This part is completely optional as IDE's are like cars - everyone has their own preference (even if one is objectively better than the other) so if you don't want to use VS Code just yet feel free to skip to the exercise at the bottom. Once you've installed VS Code though - let's get you started with version controlling. You'll have some of the following icons on the left hand side of VS Code when you open it up. 
+I won't lie to you. I only started using VS Code this year. I was previously using Spyder - a Python specific IDE which was _fine_ but that was it - it was just _fine_. With VS Code - there's Version Control Integration, Mutilple Language Support - and a dark theme (perfect for evenings spent coding). This part is completely optional as IDE's are like cars - everyone has their own preference (even if one is objectively better than the other) so if you don't want to use VS Code just yet feel free to skip to the exercise at the bottom. Once you've installed VS Code though - let's get you started with version controlling. You'll have some of the following icons on the left hand side of VS Code when you open it up.
 
 ![The VS Code Sidebar](/source/2021_10/assetts/vs_code_bar.png?raw=true)
 
@@ -65,7 +65,7 @@ Congratulations! You've just completed your first pull request! This can also be
 
 ## Exercises
 
-Right - now that that's all out of the way - I thought let's start with Python as that's the stuff front of mind for you right now. In 15 minutes - I want you to write in either [hellowworld.py](/source/2021_10/Python/helloworld.py) or [hellowworld.ipynb](/source/2021_10/Python/helloworld.ipynb) *everything* you know about Python - no matter how small or how large. I actually want you to focus on this more than the challenge question - as I can just provide the answer to that one and we can code it up together.
+Right - now that that's all out of the way - I thought let's start with Python as that's the stuff front of mind for you right now. In 15 minutes - I want you to write in either [hellowworld.py](/source/2021_10/Python/helloworld.py) or [hellowworld.ipynb](/source/2021_10/Python/helloworld.ipynb) _everything_ you know about Python - no matter how small or how large. I actually want you to focus on this more than the challenge question - as I can just provide the answer to that one and we can code it up together.
 
 If you have any questions mate - feel free to hit me up!
 
