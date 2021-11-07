@@ -2,7 +2,7 @@
 
 To the reader,
 
-This will be a bit of a crash course in absolutely everything - using Git, VS Code and some code snippets. For full context - if was to label myself - it would be python developer so that would probably be where you would get the most bang for your buck in terms of leveraging my time - but that's not to say I won't be able to assist with HTML, CSS or any other language. Once you've learnt one - you've pretty much learnt them all - just need to know what syntax to use etc.
+This will be a bit of a crash course in absolutely everything - using Git, VS Code and some code snippets. For full context - if was to label myself - it would be a Data Analyst who utilizes Python so that would probably be where you would get the most bang for your buck in terms of leveraging my time - but that's not to say I won't be able to assist with HTML, CSS or any other language. Once you've learnt one - you've pretty much learnt them all - just need to know what syntax to use etc.
 
 If you're not already using Git - I would highly encourage you to. Not only is it a mainstay of Software Developers in the workforce but it's also a fantastic bit of kit to version control and track bugs/issues as well as revert if you fall down the rabbit hole so far - the best way back to the top is the nuclear option and starting again.
 
