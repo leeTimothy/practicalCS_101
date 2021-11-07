@@ -37,29 +37,29 @@ What you should find now is that Git is now spitting out your Name and Email. If
 
 I won't lie to you. I only started using VS Code this year. I was previously using Spyder - a Python specific IDE which was _fine_ but that was it - it was just _fine_. With VS Code - there's Version Control Integration, Mutilple Language Support - and a dark theme (perfect for evenings spent coding). This part is completely optional as IDE's are like cars - everyone has their own preference (even if one is objectively better than the other) so if you don't want to use VS Code just yet feel free to skip to the exercise at the bottom. Once you've installed VS Code though - let's get you started with version controlling. You'll have some of the following icons on the left hand side of VS Code when you open it up.
 
-![The VS Code Sidebar](/source/2021/assetts/vs_code_bar.png?raw=true)
+![The VS Code Sidebar](/source/2021/assets/vs_code_bar.png?raw=true)
 
 The middle icon is the SCM or Source Control Management tab and is where we'll be focusing for today. When you first click into it - you'll be greeted with the following.
 
-![SCM Menu](/source/2021/assetts/scm.png?raw=true)
+![SCM Menu](/source/2021/assets/scm.png?raw=true)
 
 Let's try to clone this repository of code and save it somewhere on your laptop. Let's click on Clone Repository and move on from there - click on Clone from Github.
 
-![Clone](/source/2021/assetts/clone.png?raw=true)
+![Clone](/source/2021/assets/clone.png?raw=true)
 
 You'll then get the following prompt (or something like it if you're on Mac).
 
-![Prompt](/source/2021/assetts/prompt.png?raw=true)
+![Prompt](/source/2021/assets/prompt.png?raw=true)
 
 Once you've gotten here - allow and you'll be redirected to a page asking you to sign in with your VS Code credentials. Follow the Prompts and Voila! You should be integrated with Git now in VS Code.
 
 Now onto actually cloning the repository (commonly referred to as a repo). If all has gone well - you should find yourself redirected back to the VS Code window with a search bar appearing at the top now. This search bar is now effectively hooked into your Github Account and able to see all of the different repo's you have available to you (including all the public facing ones). If you type in practicalcs_101 - you should be able to find ours!
 
-![Prompt](/source/2021/assetts/practicalcs_101.png?raw=true)
+![Prompt](/source/2021/assets/practicalcs_101.png?raw=true)
 
 If you click on that - you should now be directed to a File Browser to select a location on your machine to save all of this. Once selected - you'll be prompted if you want to open up the folder as so and you're done!
 
-![Prompt](/source/2021/assetts/confirm.png?raw=true)
+![Prompt](/source/2021/assets/confirm.png?raw=true)
 
 Congratulations! You've just completed your first pull request! This can also be achieved through the command line interface as well (I know - I know - I said avoid GUIs but here I am showing you how to do it through the GUI - We can cover the CLI (or Command Line Interface) afterwards.)
 
