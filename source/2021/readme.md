@@ -29,7 +29,7 @@ Once done - run the following to confirm that your changes have taken on your ma
 
 `git config --global user.name`
 
-` git config --global user.email`
+`git config --global user.email`
 
 What you should find now is that Git is now spitting out your Name and Email. If anything looks wrong - go back to the start with ` git config --global user.name "John Smith"` and you should be able to get it sorted.
 
@@ -61,12 +61,8 @@ If you click on that - you should now be directed to a File Browser to select a 
 
 ![Prompt](/source/2021/assetts/confirm.png?raw=true)
 
-Congratulations! You've just completed your first pull request! This can also be achieved through the command line interface as well (I know - I know - I said avoid GUIs but here I am showing you how to do it through the GUI - We can cover the CLI afterwards.)
+Congratulations! You've just completed your first pull request! This can also be achieved through the command line interface as well (I know - I know - I said avoid GUIs but here I am showing you how to do it through the GUI - We can cover the CLI (or Command Line Interface) afterwards.)
 
-## Exercises
-
-Right - now that that's all out of the way - I thought let's start with Python as that's the stuff front of mind for you right now. In 15 minutes - I want you to write in either [hellowworld.py](/source/2021/Python/helloworld.py) or [hellowworld.ipynb](/source/2021/Python/helloworld.ipynb) _everything_ you know about Python - no matter how small or how large. I actually want you to focus on this more than the challenge question - as I can just provide the answer to that one and we can code it up together.
-
-If you have any questions mate - feel free to hit me up!
+If you have any questions - feel free to hit me up!
 
 T
