@@ -2,5 +2,9 @@
 
 A Lightweight set of exercises to familiarize one self with Git, VSCode, Python and how it's utilized in industry as well as some basic activities.
 
-Let's start!
-Exercise 1 can be found [here](source/2021_10/readme.md)
+If this is all new to you - I would encourage doing the getting started exercises (which can be found [here](source/2021/gettingStarted.md))
+
+| Python    | Git   | VSCode |
+| --------- | ----- | ------ |
+| Header    | Title | Title  |
+| Paragraph | Text  | Text   |
