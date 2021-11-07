@@ -4,6 +4,6 @@ A Lightweight set of exercises to familiarize one self with Git, VSCode, Python 
 
 If this is all new to you - I would encourage doing the getting started exercises (which can be found [here](source/2021/gettingStarted.md))
 
-| Python                                                                                 | Git              | VSCode              |
-| -------------------------------------------------------------------------------------- | ---------------- | ------------------- |
-| [Jupyter Notebook - an IDE in your IDE](source/2021/Python/JupyterNB/ideSquared.ipynb) | Your First Clone | My Eyes - they burn |
+| Python                                                                                   | Git              | VSCode              |
+| ---------------------------------------------------------------------------------------- | ---------------- | ------------------- |
+| [Jupyter Notebook - an IDE in your IDE](source/2021/Python/1.JupyterNB/ideSquared.ipynb) | Your First Clone | My Eyes - they burn |
